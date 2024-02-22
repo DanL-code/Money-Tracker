@@ -7,4 +7,5 @@ It offers users a straightforward tool for managing their finances, enabling the
 
 ![money-tracker1](https://github.com/DanL-code/Money-Tracker/blob/main/screenshot1.png)
 ![money-tracker2](https://github.com/DanL-code/Money-Tracker/blob/main/screenshot2.png)
+![money-tracker-structure](https://github.com/DanL-code/Money-Tracker/blob/main/StructureofCode.png)
 
